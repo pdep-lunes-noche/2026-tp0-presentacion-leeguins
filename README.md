@@ -12,7 +12,7 @@ Esta es la primera vez que curso la materia (y espero que ultima) y mi principal
 >Legajo: **214.487-6**
 
 ### Intereses 
-  *Boca
-  *Juegos Random
-  *F1
+  * Boca
+  * Juegos Random
+  * F1
 
